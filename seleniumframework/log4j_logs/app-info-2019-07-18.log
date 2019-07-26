@@ -1,0 +1,6 @@
+[INFO ] 2019-07-18 12:06:48.177 [main] Log4jdemo - This is info message
+[ERROR] 2019-07-18 12:06:48.181 [main] Log4jdemo - This is error message
+[WARN ] 2019-07-18 12:06:48.181 [main] Log4jdemo - This is warning
+[INFO ] 2019-07-18 12:08:51.194 [main] Log4jdemo - This is info message
+[ERROR] 2019-07-18 12:08:51.198 [main] Log4jdemo - This is error message
+[WARN ] 2019-07-18 12:08:51.198 [main] Log4jdemo - This is warning
